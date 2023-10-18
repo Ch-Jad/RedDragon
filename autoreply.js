@@ -1,8 +1,7 @@
 const autoReply = (msg) => {
     let R = ''
     if(msg.match(/hi|asslam|hey|hello|halo|helow|හලෝ/gi)){
-        R = "🤓Hey, I am RedDragon👽
-            My Owner Mr Jadi KinG"
+        R = "🤓Hey, I am RedDragon My Owner Mr Jadi KinG👽"
     }
     if(msg.match(/😒/hi)){
         R = "😒yes"
